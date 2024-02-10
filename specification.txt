@@ -1,0 +1,22 @@
+HTML Tags:
+1. <meta> - used to include meta information in the web page.
+2. <link> - used to link the document to external resources, such as stylesheets.
+3. <script> - used to embed or reference JavaScript scripts.
+4. <div> - used as a container to structure HTML elements.
+5. <header> - used to define the head of a section or document.
+6. <nav> - used to define a navigation section.
+7. <main> - used to define the main content of a document.
+8. <strong> - used to emphasize important text.
+9. <h1> - used to define a heading level 1.
+10. <form> - used to create input forms.
+
+CSS Properties:
+1. margin - sets the margin of HTML elements.
+2. padding - sets the padding of HTML elements.
+3. box-sizing - sets the box model of HTML elements.
+4. font-family - sets the font type for text.
+5. background-color - sets the background color of HTML elements.
+
+JavaScript and Bootstrap:
+- I use JavaScript on the contact.html page to handle form submission without reloading the page.
+- I use Bootstrap throughout the project (via CDN) to leverage pre-built components and styles, speeding up development and ensuring a responsive design.
